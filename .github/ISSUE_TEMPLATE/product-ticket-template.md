@@ -13,9 +13,6 @@ Overview of the ticket, what is the main change/new ability
 ### Design:
 Link to design, and a screenshot of the specific part concerning this ticket 
 
-### Copy:
-Link to copy if available
-
 ### Translations
 Link to translation file if available
 
@@ -25,7 +22,3 @@ Give -> when -> then statements
 
 ### Analytics:
 Details of events that must be added, including to which service, with which properties etc.
-
-| Property Type | Property name | Property Definition | Data type | Sample Data |
-| -------------- | --------------- | ------------------ | ---------- | ------------- |
-| Event Property | Some property name | some definition of the property | Numerical | 60 |
